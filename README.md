@@ -23,6 +23,15 @@ Only use for educational purposes
 
 
 
+# remainder
+please install seleinum library
+
+
+
+type.>>>  pip instal selenium
+
+
+
 
 
 # AUTHOR
